@@ -14,7 +14,7 @@
           </elementProp>
           <elementProp name="project-path" elementType="Argument">
             <stringProp name="Argument.name">project-path</stringProp>
-            <stringProp name="Argument.value">D:\git\zssperformance\jmeter\statistics</stringProp>
+            <stringProp name="Argument.value">~/statistics</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
@@ -91,7 +91,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${project-path}\sampleResult.csv</stringProp>
+          <stringProp name="filename">${project-path}/sampleResult.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -124,7 +124,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${project-path}\summary.csv</stringProp>
+          <stringProp name="filename">${project-path}/summary.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <kg.apc.jmeter.perfmon.PerfMonCollector guiclass="kg.apc.jmeter.vizualizers.PerfMonGui" testclass="kg.apc.jmeter.perfmon.PerfMonCollector" testname="jp@gc - PerfMon Metrics Collector" enabled="true">
@@ -157,7 +157,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${project-path}\cpuMemory.csv</stringProp>
+          <stringProp name="filename">${project-path}/cpuMemory.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -208,7 +208,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${project-path}\responseTime.csv</stringProp>
+          <stringProp name="filename">${project-path}/responseTime.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
