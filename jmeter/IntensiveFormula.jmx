@@ -12,6 +12,11 @@
             <stringProp name="Argument.value">localhost</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
+          <elementProp name="project-path" elementType="Argument">
+            <stringProp name="Argument.name">project-path</stringProp>
+            <stringProp name="Argument.value">D:\git\zssperformance\jmeter\statistics</stringProp>
+            <stringProp name="Argument.metadata">=</stringProp>
+          </elementProp>
         </collectionProp>
       </elementProp>
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
@@ -90,7 +95,7 @@
               <bytes>true</bytes>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">${project-path}\sampleResult.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
@@ -122,7 +127,7 @@
               <bytes>true</bytes>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">${project-path}\summary.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <kg.apc.jmeter.perfmon.PerfMonCollector guiclass="kg.apc.jmeter.vizualizers.PerfMonGui" testclass="kg.apc.jmeter.perfmon.PerfMonCollector" testname="jp@gc - PerfMon Metrics Collector" enabled="true">
@@ -155,7 +160,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">D:\git\zssperformance\statistics\CpuMemory.csv</stringProp>
+          <stringProp name="filename">${project-path}\cpuMemory.csv</stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -206,7 +211,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">D:\git\zssperformance\statistics\responseTime.csv</stringProp>
+          <stringProp name="filename">${project-path}\responseTime.csv</stringProp>
           <longProp name="interval_grouping">500</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -1228,96 +1233,112 @@
                 <stringProp name="Argument.name">data_3</stringProp>
                 <stringProp name="Argument.value">{&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;type&quot;:&quot;cell&quot;,&quot;left&quot;:0,&quot;top&quot;:3,&quot;right&quot;:0,&quot;bottom&quot;:3}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="cmd_4" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">cmd_4</stringProp>
                 <stringProp name="Argument.value">onCellFocus</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="uuid_4" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">uuid_4</stringProp>
                 <stringProp name="Argument.value">zQKZ0</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="data_4" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">true</boolProp>
                 <stringProp name="Argument.name">data_4</stringProp>
                 <stringProp name="Argument.value">{&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;row&quot;:2,&quot;col&quot;:0}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="cmd_5" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">cmd_5</stringProp>
                 <stringProp name="Argument.value">onCellSelection</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="uuid_5" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">uuid_5</stringProp>
                 <stringProp name="Argument.value">zQKZ0</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="data_5" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">true</boolProp>
                 <stringProp name="Argument.name">data_5</stringProp>
                 <stringProp name="Argument.value">{&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;type&quot;:&quot;cell&quot;,&quot;left&quot;:0,&quot;top&quot;:2,&quot;right&quot;:0,&quot;bottom&quot;:2}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="cmd_6" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">cmd_6</stringProp>
                 <stringProp name="Argument.value">onCellFocus</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="uuid_6" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">uuid_6</stringProp>
                 <stringProp name="Argument.value">zQKZ0</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="data_6" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">true</boolProp>
                 <stringProp name="Argument.name">data_6</stringProp>
                 <stringProp name="Argument.value">{&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;row&quot;:2,&quot;col&quot;:0}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="cmd_7" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">cmd_7</stringProp>
                 <stringProp name="Argument.value">onCellSelection</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="uuid_7" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">uuid_7</stringProp>
                 <stringProp name="Argument.value">zQKZ0</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="data_7" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">true</boolProp>
                 <stringProp name="Argument.name">data_7</stringProp>
                 <stringProp name="Argument.value">{&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;type&quot;:&quot;cell&quot;,&quot;left&quot;:0,&quot;top&quot;:2,&quot;right&quot;:0,&quot;bottom&quot;:2}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="cmd_8" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">cmd_8</stringProp>
                 <stringProp name="Argument.value">onStartEditing</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="uuid_8" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.name">uuid_8</stringProp>
                 <stringProp name="Argument.value">zQKZ0</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
               <elementProp name="data_8" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">true</boolProp>
                 <stringProp name="Argument.name">data_8</stringProp>
                 <stringProp name="Argument.value">{&quot;token&quot;:&quot;&quot;,&quot;sheetId&quot;:&quot;d0_sheet_0&quot;,&quot;row&quot;:2,&quot;col&quot;:0,&quot;clienttxt&quot;:&quot;1&quot;,&quot;type&quot;:&quot;inlineEditing&quot;}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
+                <boolProp name="HTTPArgument.use_equals">true</boolProp>
               </elementProp>
             </collectionProp>
           </elementProp>
