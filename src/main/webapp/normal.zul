@@ -1,3 +1,12 @@
+<zk>
+<button onClick="secondSheet()">Switch to 2nd sheet</button>
 <spreadsheet id="ss" src="/normal.xlsx" maxVisibleRows="500" maxVisibleColumns="40"
-	width="100%" height="100%" showContextMenu="true" showSheetbar="true" showToolbar="true"
+	width="100%" height="60%" showContextMenu="true" showSheetbar="true" showToolbar="true"
 	showFormulabar="true" />
+<zscript><![CDATA[
+	public void secondSheet(){
+		ss.setSelectedSheet("Liquidity");
+	}
+]]>
+</zscript>
+</zk>
