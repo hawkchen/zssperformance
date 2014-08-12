@@ -1,0 +1,334 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,grpThreads,allThreads,Latency
+1403252103046,220000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252103062,23685,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252103062,4813,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252104062,322000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252104062,23685,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252104062,48447,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252105406,23803,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252105406,24198,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252105421,414000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252106406,23855,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252106406,43591,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252106421,552000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252107406,23899,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252107406,69158,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252107421,919000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252108406,24464,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252108406,44811,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252108421,1388000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252109406,26067,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252109406,98770,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252109421,692000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252110406,26318,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252110421,97095,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252110421,198000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252111406,26322,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252111421,88611,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252111421,63000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252112468,1532000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252112468,26398,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252112468,69335,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252113468,253000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252113468,26421,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252113468,69183,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252114468,28642,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252114468,193000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252114468,88935,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252115468,402000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252115468,28711,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252115468,92198,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252116468,28847,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252116468,883000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252116468,98086,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252117546,92371,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252117546,28873,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252117546,1299000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252118546,92001,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252118546,424000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252118546,28795,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252119546,87010,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252119546,589000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252119546,28797,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252120546,93054,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252120546,1370000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252120546,28897,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252121562,61000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252121609,28817,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252121609,92124,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252122656,615000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252122656,91937,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252122656,28833,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252123656,1140000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252123656,87517,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252123656,28832,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252124656,1617000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252124656,92964,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252124656,28879,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252125656,447000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252125656,91458,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252125656,28842,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252126656,89080,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252126656,973000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252126656,28885,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252127656,93538,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252127656,1521000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252127656,28951,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252128656,166000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252128656,88442,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252128656,28906,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252129656,712000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252129656,91873,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252129656,28897,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252130796,1527000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252130796,28978,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252130796,85250,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252132000,29006,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252132015,645000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252132015,94151,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252133125,1410000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252133125,93098,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252133140,29046,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252134187,2023000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252134187,29079,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252134187,91517,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252135187,246000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252135187,29007,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252135187,87769,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252136187,714000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252136187,29026,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252136187,91059,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252137218,29072,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252137218,100000,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252137218,1703000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252138218,2015000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252138234,29116,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252138234,88045,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252139234,432000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252139234,92334,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252139234,29035,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252140265,29094,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252140265,89072,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252140265,787000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252141359,1362000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252141359,81498,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252141359,29110,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252142812,623000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252142812,29165,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252142812,91917,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252143812,190000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252143812,99342,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252143812,29084,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252144812,892000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252144812,85149,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252144812,29137,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252145812,1321000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252145812,29161,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252145812,81852,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252146812,1700000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252146812,91760,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252146812,29215,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252148000,609000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252148000,29169,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252148000,88549,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252149000,827000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252149000,29171,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252149000,88679,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252150000,29196,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252150000,1179000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252150000,94801,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252151000,1585000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252151000,29234,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252151000,89456,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252152000,29234,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252152000,2083000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252152000,88393,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252153000,412000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252153000,29157,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252153000,80481,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252154000,29192,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252154000,1005000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252154000,98398,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252155000,29210,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252155000,1458000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252155000,84410,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252156000,29150,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252156000,224000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252156000,100000,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252157015,825000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252157015,29206,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252157015,94207,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252158015,1052000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252158015,29195,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252158015,88779,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252159031,1725000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252159031,92755,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252159031,29254,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252160031,239000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252160031,91407,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252160031,29198,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252161062,681000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252161062,29204,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252161062,83209,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252162343,1810000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252162343,29264,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252162343,90751,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252163453,649000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252163453,29201,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252163453,90631,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252164453,29205,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252164453,795000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252164453,91847,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252165453,1177000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252165453,29217,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252165453,94459,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252166453,1686000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252166453,92588,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252166453,29245,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252167453,1668000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252167453,73052,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252167453,29252,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252168453,382000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252168453,94881,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252168453,29198,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252169453,89600,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252169453,1109000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252169453,29246,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252170453,87926,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252170453,1426000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252170453,29258,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252171453,81118,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252171453,1646000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252171453,29261,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252172453,2047000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252172453,87593,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252172453,29292,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252173546,936000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252173546,91329,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252173546,29243,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252174546,79755,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252174546,1074000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252174546,29259,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252175562,1712000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252175562,29319,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252175578,95162,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252176671,29348,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252176671,2041000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252176671,82331,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252177812,830000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252177812,29285,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252177812,80781,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252178812,29307,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252178812,848000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252178812,98051,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252179812,1311000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252179812,29330,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252179812,89002,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252180812,29362,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252180812,1708000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252180812,85190,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252181937,945000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252181937,29358,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252181937,97546,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252182937,621000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252182937,29361,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252182937,83722,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252183937,29407,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252183937,88101,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252183937,1712000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252185015,29329,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252185015,336000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252185015,89386,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252186015,29345,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252186015,466000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252186015,85018,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252187015,29393,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252187015,81328,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252187015,788000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252188015,29418,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252188015,1590000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252188015,96063,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252189015,29421,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252189015,1925000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252189015,86468,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252190015,29364,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252190015,347000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252190015,86783,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252191046,1087000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252191046,29407,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252191046,87307,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252192046,1544000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252192046,29411,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252192046,97090,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252193046,1758000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252193046,29487,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252193046,87535,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252194046,344000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252194046,29366,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252194046,91887,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252195046,811000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252195046,29390,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252195046,97214,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252196093,1347000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252196093,29471,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252196093,89285,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252197140,1913000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252197140,29458,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252197140,87679,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252198140,297000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252198140,29370,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252198140,87506,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252199281,29384,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252199296,1020000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252199296,82167,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252200484,1929000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252200484,29422,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252200484,87989,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252201484,1832000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252201484,77856,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252201484,29438,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252202484,113000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252202484,29359,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252202484,80835,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252203484,562000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252203484,84781,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252203484,29395,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252204484,629000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252204484,70017,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252204484,29389,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252205484,459000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252205484,61965,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252205484,29392,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252206484,2064000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252206484,52144,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252206484,29470,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252207484,1617000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252207484,29446,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252207484,50800,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252208484,1063000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252208484,46065,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252208484,29424,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252209484,112000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252209484,28510,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252209484,29394,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252210484,1116000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252210484,31647,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252210484,29419,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252211484,1842000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252211484,20074,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252211484,29450,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252212484,258000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252212484,10900,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252212484,29399,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252213484,511000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252213484,6306,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252213484,29398,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252214484,637000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252214484,3457,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252214484,29398,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252215484,728000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252215484,29398,dennis-nb Memory usedperc,,,,,true,0,0,0,0
+1403252215484,3153,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252216484,818000,dennis-nb JMX unit=mb:memory-usage,,,,,true,0,0,0,0
+1403252216484,2381,dennis-nb CPU CPU usage,,,,,true,0,0,0,0
+1403252216484,29403,dennis-nb Memory usedperc,,,,,true,0,0,0,0
