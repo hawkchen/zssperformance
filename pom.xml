@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.zkoss</groupId>
 	<artifactId>zssperformance</artifactId>
-	<version>0.9</version>
+	<version>3.6.0</version>
 	<packaging>war</packaging>
 	<repositories>
 		<repository>
@@ -16,7 +16,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		<zss.version>3.5.0.RC</zss.version>
+		<zss.version>3.6.1.FL.20141215-Eval</zss.version>
 	</properties>
 	<dependencies>
 		<dependency>
