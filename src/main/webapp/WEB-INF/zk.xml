@@ -16,8 +16,8 @@
 		<name>org.zkoss.zul.listbox.rod</name>
 		<value>true</value>
 	</library-property>
-	<max-desktops-per-session>1</max-desktops-per-session>
 	<session-config>
 		<timeout-uri>/timeout.zul</timeout-uri>
+		<max-desktops-per-session>1</max-desktops-per-session>
 	</session-config>
 </zk>
