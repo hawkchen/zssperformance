@@ -1,0 +1,27 @@
+<zk>
+<div height="100%"> 
+<zscript><![CDATA[
+List indexList = new LinkedList();       
+]]></zscript>
+<combobox id="indexBox" onSelect="selectSheet()">
+	<comboitem forEach="${indexList}" label="${each}" value="${each}"/>
+</combobox>
+<spreadsheet id="ss" src="/dependentFormula.xlsx" maxVisibleRows="500" maxVisibleColumns="40"
+	width="100%" vflex="1" showContextMenu="true" showSheetbar="true" showToolbar="true"
+	showFormulabar="true" />
+<zscript><![CDATA[
+for (int i = 0 ; i < ss.getBook().getNumberOfSheets() ; i++){
+	Comboitem comboitem = new Comboitem();
+	comboitem.setLabel(Integer.toString(i));
+	comboitem.setValue(new Integer(i));
+	indexBox.appendChild(comboitem);
+}
+
+
+public void selectSheet(){
+	Integer index = (Integer)indexBox.getSelectedItem().getValue();
+	ss.setSelectedSheet(ss.getBook().getSheetAt(index).getSheetName());
+}
+]]></zscript>
+</div>
+</zk>
