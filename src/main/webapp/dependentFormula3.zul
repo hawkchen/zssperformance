@@ -1,0 +1,36 @@
+<zk>
+<div height="100%"> 
+<zscript><![CDATA[
+List indexList = new LinkedList();       
+]]></zscript>
+<button onClick="changeMassiveCells()">Change cells</button>
+<spreadsheet id="ss" src="/dependentFormula2.xlsx" maxVisibleRows="500" maxVisibleColumns="40"
+	width="100%" vflex="1" showContextMenu="true" showSheetbar="true" showToolbar="true"
+	showFormulabar="true" />
+<zscript><![CDATA[
+import java.util.Random;
+import org.zkoss.zss.api.model.CellData;
+
+	Random rand = new Random();
+	
+	public void changeMassiveCells() {
+		int count= 0;
+		Sheet sheet = ss.getSelectedSheet();
+		for (int col = 5; col < 7; col++) {
+			for (int row = 1; row < 112; row++) {
+				Range cell = Ranges.range(sheet, row, col);
+			    if (!(cell.getCellData().getType() == CellData.CellType.FORMULA)){
+			        cell.setAutoRefresh(false);
+			        cell.setCellValue(rand.nextInt(2000));
+			        count++;
+			        if (count == 400){
+			         Ranges.range(sheet).notifyChange();
+			         return;
+			        }
+			    }
+			}
+		}
+	}
+]]></zscript>
+</div>
+</zk>
