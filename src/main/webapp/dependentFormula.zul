@@ -3,38 +3,27 @@
 <zscript><![CDATA[
 List indexList = new LinkedList();       
 ]]></zscript>
-<combobox id="indexBox" onSelect="selectSheet()">
-	<comboitem forEach="${indexList}" label="${each}" value="${each}"/>
-</combobox>
-<button onClick="changeMassiveCells()">Change 150 cells</button>
+<button onClick="changeMassiveCells()">Change cells</button>
 <spreadsheet id="ss" src="/dependentFormula.xlsx" maxVisibleRows="500" maxVisibleColumns="40"
 	width="100%" vflex="1" showContextMenu="true" showSheetbar="true" showToolbar="true"
 	showFormulabar="true" />
 <zscript><![CDATA[
+import java.util.Random;
+import org.zkoss.zss.api.model.CellData;
 
-for (int i = 0 ; i < ss.getBook().getNumberOfSheets() ; i++){
-	Comboitem comboitem = new Comboitem();
-	comboitem.setLabel(Integer.toString(i));
-	comboitem.setValue(new Integer(i));
-	indexBox.appendChild(comboitem);
-}
-
-
-public void selectSheet(){
-	Integer index = (Integer)indexBox.getSelectedItem().getValue();
-	ss.setSelectedSheet(ss.getBook().getSheetAt(index).getSheetName());
-}
-
-
-static int data = 99;
-
-public void changeMassiveCells(){
-	Sheet sheet = ss.getSelectedSheet();
-	for (int row = 0 ; row < 50 ; row++){
-			Ranges.range(sheet, row, 0).setCellValue(data);
+	Random rand = new Random();
+	
+	public void changeMassiveCells() {
+		Sheet sheet = ss.getSelectedSheet();
+		for (int col = 0; col < 2; col++) {
+			for (int row = 0; row < 50; row++) {
+				Range cell = Ranges.range(sheet, row, col);
+			    if (!(cell.getCellData().getType() == CellData.CellType.FORMULA)){
+			        cell.setCellValue(rand.nextInt(2000));
+			    }
+			}
+		}
 	}
-	data++;
-}
 ]]></zscript>
 </div>
 </zk>
