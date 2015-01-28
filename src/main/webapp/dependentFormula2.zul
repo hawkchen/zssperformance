@@ -16,8 +16,8 @@ import org.zkoss.zss.api.model.CellData;
 	public void changeMassiveCells() {
 		int count= 0;
 		Sheet sheet = ss.getSelectedSheet();
-		for (int col = 5; col < 7; col++) {
-			for (int row = 1; row < 112; row++) {
+		for (int col = 6; col < 7; col++) {
+			for (int row = 3; row < 112; row++) {
 				Range cell = Ranges.range(sheet, row, col);
 			    if (!(cell.getCellData().getType() == CellData.CellType.FORMULA)){
 			        cell.setCellValue(rand.nextInt(2000));

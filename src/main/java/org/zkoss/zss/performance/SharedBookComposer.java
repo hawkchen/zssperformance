@@ -1,4 +1,4 @@
-package org.zkoss.zss.benchmark;
+package org.zkoss.zss.performance;
 
 
 import java.io.IOException;
