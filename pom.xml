@@ -16,7 +16,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		<zss.version>3.6.1.FL.20141215-Eval</zss.version>
+		<zss.version>3.6.1.FL.20150115-Eval</zss.version>
 	</properties>
 	<dependencies>
 		<dependency>
