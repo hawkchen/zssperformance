@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.zkoss</groupId>
 	<artifactId>zssperformance</artifactId>
-	<version>3.8.0-Eval</version>
+	<version>3.9.1-Eval</version>
 	<packaging>war</packaging>
 	<repositories>
 		<repository>
@@ -24,4 +24,19 @@
 	</dependencies>
 	<description>A project with several scenarios for testing ZSS performance. Each zul represents a scenario.</description>
 	<name>zssperformance</name>
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+			<!-- Compile java -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>			
+		</plugins>
+	</build>		
 </project>
