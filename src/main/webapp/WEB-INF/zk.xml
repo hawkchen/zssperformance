@@ -8,6 +8,9 @@
 	<system-config>
 		<id-generator-class>org.zkoss.zk.ui.impl.StaticIdGenerator</id-generator-class>
 	</system-config>
+	<listener>
+        <listener-class>org.zkoss.zss.performance.ImportTimeMeter</listener-class>
+    </listener>	
 	<library-property>
 		<name>org.zkoss.zul.grid.rod</name>
 		<value>true</value>
