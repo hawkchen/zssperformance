@@ -28,7 +28,9 @@
 			<scope>provided</scope>
 		</dependency>		
 	</dependencies>
-	<description>A project with several scenarios for testing ZSS performance. Each zul represents a scenario.</description>
+	<description>A project with several scenarios for testing ZSS performance. Each zul represents a scenario.
+We don't commit some big test files (20~40mb) for importing into the repository and store them at google drive https://drive.google.com/open?id=0ByoZiMi7jA5DTnpZX1NMOExBUGM
+If they are not accessible in the future, just create them by replicating cells in a smaller test file like 1mb.xlsx</description>
 	<name>zssperformance</name>
 	<build>
 		<finalName>${project.artifactId}</finalName>
